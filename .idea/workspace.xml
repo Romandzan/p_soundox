@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae3c2d33-80d1-40b1-8fed-ff03c68338bc" name="Changes" comment="Новый проект сделал с gpt" />
+    <list default="true" id="ae3c2d33-80d1-40b1-8fed-ff03c68338bc" name="Changes" comment="Новый проект сделал с gpt">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Romandzan"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "git@github.com:Romandzan/back-end-inkubator.git",
@@ -116,7 +124,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1765115963993</updated>
-      <workItem from="1765115964993" duration="6025000" />
+      <workItem from="1765115964993" duration="8836000" />
     </task>
     <task id="LOCAL-00001" summary="Новый проект сделал с gpt">
       <option name="closed" value="true" />
