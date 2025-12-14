@@ -1,10 +1,16 @@
-import express, {Request, Response} from "express";
+import express from "express";
+
+import trackRouter from "./routes/tracks";
 
 const app = express();
-const port = 4001;
 
-app.get('/', (req: Request, res: Response) => {
-    res.send("Hello Roman Paleha from Express!!!");
+app.use(express.json());
+app.use('/track', trackRouter);
+const port = 4008;
+
+app.get('/', (req, res) => {
+    res.send("API is working");
+
 });
 
 app.listen(port, () => {
